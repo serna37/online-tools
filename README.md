@@ -77,7 +77,7 @@
       <div>
         <!-- CodeHS -->
         <div>
-          <a href="https://codehs.com/sandbox/id/sandbox-oVKlF9">
+          <a href="https://codehs.com/sandbox?ref=20">
             <img src="https://img.shields.io/badge/-CodeHS-29A7DF.svg?logo=pcgamingwiki&style=flat">
           </a>
         </div>
