@@ -5,6 +5,7 @@
   <thead>
     <td>Markdown</td>
     <td>Runtime</td>
+    <td>Others</td>
   </thead>
   <tr>
     <td>
@@ -15,16 +16,10 @@
             <img src="https://img.shields.io/badge/-StackEdit-606060.svg?logo=stackedit&style=flat">
           </a>
         </div>
-        <!-- Mermaid -->
+        <!-- Marxi -->
         <div>
-          <a href="https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNpVjstqw0AMRX9FaNVC_ANeFBq7zSbQQrPzZCFsOTMk80CWCcH2v3ccb1qtxD3nCk3Yxo6xxP4W760lUTjVJkCe96ay4gb1NJyhKN7mAyv4GPgxw_7lEGGwMSUXLq-bv18lqKbjqjGodeG6bKh69r8Cz1A3R0oa0_kvOd3jDB-N-7b5_H9ihXPrs-mp7KloSaAieSq4Q8_iyXX5_WlNDKplzwbLvHYkV4MmLNmjUePPI7RYqoy8wzF1pFw7ugj5LVx-AfLqVWg">
-            <img src="https://img.shields.io/badge/-Mermaid-543F70.svg?logo=mermaid&style=flat">
-          </a>
-        </div>
-        <!-- LaTex -->
-        <div>
-          <a href="https://josephernest.github.io/writing/">
-            <img src="https://img.shields.io/badge/-LaTex-008080.svg?logo=LaTex&style=flat">
+          <a href="https://marxi.co/">
+            <img src="https://img.shields.io/badge/-Marxi-E85C33.svg?logo=marko&style=flat">
           </a>
         </div>
       </div>
@@ -47,6 +42,28 @@
         <div>
           <a href="https://www.codechef.com/ide">
             <img src="https://img.shields.io/badge/-CodeChef-5B4638.svg?logo=codechef&style=flat">
+          </a>
+        </div>
+      </div>
+    </td>
+    <td>
+      <div>
+        <!-- Mermaid -->
+        <div>
+          <a href="https://mermaid-js.github.io/mermaid-live-editor/edit#pako:eNpVjstqw0AMRX9FaNVC_ANeFBq7zSbQQrPzZCFsOTMk80CWCcH2v3ccb1qtxD3nCk3Yxo6xxP4W760lUTjVJkCe96ay4gb1NJyhKN7mAyv4GPgxw_7lEGGwMSUXLq-bv18lqKbjqjGodeG6bKh69r8Cz1A3R0oa0_kvOd3jDB-N-7b5_H9ihXPrs-mp7KloSaAieSq4Q8_iyXX5_WlNDKplzwbLvHYkV4MmLNmjUePPI7RYqoy8wzF1pFw7ugj5LVx-AfLqVWg">
+            <img src="https://img.shields.io/badge/-Mermaid-543F70.svg?logo=mermaid&style=flat">
+          </a>
+        </div>
+        <!-- LaTex -->
+        <div>
+          <a href="https://josephernest.github.io/writing/">
+            <img src="https://img.shields.io/badge/-LaTex-008080.svg?logo=LaTex&style=flat">
+          </a>
+        </div>
+        <!-- serna's_editor -->
+        <div>
+          <a href="https://neras-sta.com/web-editor/">
+            <img src="https://img.shields.io/badge/-serna37-981E32.svg?logo=burgerking&style=flat">
           </a>
         </div>
       </div>
